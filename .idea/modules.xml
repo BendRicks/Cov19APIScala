@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/Cov19.iml" filepath="$PROJECT_DIR$/.idea/modules/Cov19.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Cov19-build.iml" filepath="$PROJECT_DIR$/.idea/modules/Cov19-build.iml" />
     </modules>
   </component>
 </project>

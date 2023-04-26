@@ -1,5 +1,5 @@
 <component name="libraryTable">
-  <library name="sbt: org.scala-lang:scala3-library_3:3.2.2:jar" type="Scala">
+  <library name="sbt: org.scala-lang:scala3-library_3:3.2.2:jar" type="Scala" external-system-id="SBT">
     <properties>
       <language-level>Scala_3_2</language-level>
       <compiler-classpath>
